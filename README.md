@@ -2,6 +2,7 @@
 Fast System-Information tool for macOS (inspired by fastfetch/neofetch)
 
 ![iFetch Screenshot](img/terminal.png)
+<img src="img/terminal.png" alt="iFetch Screenshot" width="500">
 
 ## Overview
 **iFetch** is a lightweight and animated system fetch tool for macOS, implemented in C++. It's similar to `neofetch`, but with an elegant Apple-inspired ASCII logo and animated color bars. It provides detailed system information, including CPU, RAM, GPU, OS version, uptime, and more. There's a static and dynamic version.
