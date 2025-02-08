@@ -56,6 +56,3 @@ There are two versions of `iFetch`:
 ## Updates
 - This is the first version
 - Updates/optimizations will follow soon
-
-## License
-MIT License. Feel free to modify and improve! 🚀
