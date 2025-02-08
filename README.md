@@ -6,7 +6,7 @@ Fast System-Information tool for macOS (inspired by fastfetch/neofetch)
 
 ## Features
 - 🚀 **Fast execution** - Optimized for speed
-- 🎨 **Stylish appearance** - ANSI color support for a sleek output
+- 🎨 **Stylish appearance** - ANSI color support for a sleek output with macOS Sequoia style
 - 🍏 **Apple-inspired ASCII logo** - With randomized animation
 - 🖥️ **Displays key system information** - OS, kernel, uptime, hardware, battery, and more
 - ⏳ **Updates system info dynamically** - Refreshes automatically every 120 seconds
